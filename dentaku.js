@@ -9,6 +9,7 @@ $(function () {
 	$('#cul_endFlag').val(0);
 });
 
+//データのクリア
 function all_clear(){
 	$('#answer').css('text-align','right');
 	$('#answer').val(0);
